@@ -5,7 +5,7 @@
 export const LOBE_CHAT_CLOUD = 'Blisss Cloud';
 
 export const BRANDING_NAME = 'Blisss';
-export const BRANDING_LOGO_URL = 'images/logo.png';
+export const BRANDING_LOGO_URL = 'images/blisss-logo.png';
 
 export const ORG_NAME = 'Lab Technologies';
 
